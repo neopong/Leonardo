@@ -1,0 +1,9 @@
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\Leonardo\Leonardo.BlackBoxTest\bin\Debug\Leonardo.BlackBoxTest.exe.config
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\Leonardo\Leonardo.BlackBoxTest\bin\Debug\head.jpeg
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\Leonardo\Leonardo.BlackBoxTest\bin\Debug\Leonardo.BlackBoxTest.exe
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\Leonardo\Leonardo.BlackBoxTest\bin\Debug\Leonardo.BlackBoxTest.pdb
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\Leonardo\Leonardo.BlackBoxTest\bin\Debug\Leonardo.dll
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\Leonardo\Leonardo.BlackBoxTest\bin\Debug\Leonardo.pdb
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\Leonardo\Leonardo.BlackBoxTest\obj\Debug\Leonardo.BlackBoxTest.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\Leonardo\Leonardo.BlackBoxTest\obj\Debug\Leonardo.BlackBoxTest.exe
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\Leonardo\Leonardo.BlackBoxTest\obj\Debug\Leonardo.BlackBoxTest.pdb

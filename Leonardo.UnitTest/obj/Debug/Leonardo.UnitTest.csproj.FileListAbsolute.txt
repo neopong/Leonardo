@@ -1,0 +1,7 @@
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\Leonardo\Leonardo.UnitTest\bin\Debug\Leonardo.UnitTest.dll
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\Leonardo\Leonardo.UnitTest\bin\Debug\Leonardo.UnitTest.pdb
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\Leonardo\Leonardo.UnitTest\bin\Debug\Leonardo.dll
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\Leonardo\Leonardo.UnitTest\bin\Debug\Leonardo.pdb
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\Leonardo\Leonardo.UnitTest\obj\Debug\Leonardo.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\Leonardo\Leonardo.UnitTest\obj\Debug\Leonardo.UnitTest.dll
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\Leonardo\Leonardo.UnitTest\obj\Debug\Leonardo.UnitTest.pdb

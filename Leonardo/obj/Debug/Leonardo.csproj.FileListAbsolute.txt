@@ -1,0 +1,5 @@
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\Leonardo\Leonardo\obj\Debug\Leonardo.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\Leonardo\Leonardo\bin\Debug\Leonardo.dll
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\Leonardo\Leonardo\bin\Debug\Leonardo.pdb
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\Leonardo\Leonardo\obj\Debug\Leonardo.dll
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\Leonardo\Leonardo\obj\Debug\Leonardo.pdb
